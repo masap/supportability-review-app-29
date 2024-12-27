@@ -1,0 +1,13 @@
+plugin/package.json
+plugin/supportability-review-app-29-0.1.0.umd.min.4.js
+plugin/supportability-review-app-29-0.1.0.umd.min.4.js.map
+plugin/supportability-review-app-29-0.1.0.umd.min.5.js
+plugin/supportability-review-app-29-0.1.0.umd.min.5.js.map
+plugin/supportability-review-app-29-0.1.0.umd.min.detail.js
+plugin/supportability-review-app-29-0.1.0.umd.min.detail.js.map
+plugin/supportability-review-app-29-0.1.0.umd.min.edit.js
+plugin/supportability-review-app-29-0.1.0.umd.min.edit.js.map
+plugin/supportability-review-app-29-0.1.0.umd.min.js
+plugin/supportability-review-app-29-0.1.0.umd.min.js.map
+plugin/supportability-review-app-29-0.1.0.umd.min.vendors~edit.js
+plugin/supportability-review-app-29-0.1.0.umd.min.vendors~edit.js.map
