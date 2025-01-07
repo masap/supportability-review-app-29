@@ -9,6 +9,8 @@
     "@rancher/shell": "^2.0.3"
   },
   "resolutions": {
+    "@aws-sdk/types": "3.714.0",
+    "@aws-sdk/util-locate-window": "3.693.0",
     "@types/node": "18.11.9",
     "@types/lodash": "4.17.5"
   },
