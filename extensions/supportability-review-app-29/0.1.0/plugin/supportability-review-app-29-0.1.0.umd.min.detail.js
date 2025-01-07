@@ -1,0 +1,2 @@
+(("undefined"!==typeof self?self:this)["webpackJsonpsupportability_review_app_29_0_1_0"]=("undefined"!==typeof self?self:this)["webpackJsonpsupportability_review_app_29_0_1_0"]||[]).push([[0],{e26d:function(e,i,t){"use strict";t.r(i);var p=function(){var e=this,i=e._self._c;return i("h1",[e._v("DetailView")])},s=[],l={name:"ReviewBundleDetailView"},n=l,_=t("2be6"),a=Object(_["a"])(n,p,s,!1,null,"9ef520c4",null);i["default"]=a.exports}}]);
+//# sourceMappingURL=supportability-review-app-29-0.1.0.umd.min.detail.js.map
